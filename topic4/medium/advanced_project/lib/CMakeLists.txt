@@ -1,0 +1,3 @@
+add_library(advanced_math_operations AdvancedMathOperations.cpp AdvancedMathOperations.h)
+
+target_include_directories(advanced_math_operations PUBLIC ${CMAKE_CURRENT_SOURCE_DIR})

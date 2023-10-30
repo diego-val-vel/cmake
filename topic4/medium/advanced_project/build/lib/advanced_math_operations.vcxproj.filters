@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\NobleProg\Desktop\cmake\topic4\medium\advanced_project\lib\AdvancedMathOperations.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\NobleProg\Desktop\cmake\topic4\medium\advanced_project\lib\AdvancedMathOperations.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\NobleProg\Desktop\cmake\topic4\medium\advanced_project\lib\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{E3CC8C3D-6C5C-3DFB-B9D4-12EA9EE97AEC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{215683F2-BEDD-3BDF-83CD-FE12F1288A86}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

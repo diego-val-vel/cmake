@@ -1,0 +1,3 @@
+add_executable(advanced_app main.cpp)
+
+target_link_libraries(advanced_app PRIVATE advanced_math_operations)
