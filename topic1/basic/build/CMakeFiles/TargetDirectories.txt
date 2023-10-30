@@ -1,0 +1,3 @@
+C:/Users/NobleProg/Desktop/cmake/topic1/basic/build/CMakeFiles/BasicApp.dir
+C:/Users/NobleProg/Desktop/cmake/topic1/basic/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/NobleProg/Desktop/cmake/topic1/basic/build/CMakeFiles/ZERO_CHECK.dir
