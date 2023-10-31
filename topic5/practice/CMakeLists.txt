@@ -1,3 +1,5 @@
+cmake_minimum_required(VERSION 3.15) #version was not set before
+
 # Define el proyecto y el lenguaje usado
 project(AdvancedLibraryExample VERSION 1.0 LANGUAGES CXX)
 
