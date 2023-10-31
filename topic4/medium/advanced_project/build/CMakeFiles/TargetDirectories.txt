@@ -1,7 +1,0 @@
-C:/Users/NobleProg/Desktop/cmake/topic4/medium/advanced_project/build/CMakeFiles/RUN_TESTS.dir
-C:/Users/NobleProg/Desktop/cmake/topic4/medium/advanced_project/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/NobleProg/Desktop/cmake/topic4/medium/advanced_project/build/CMakeFiles/ZERO_CHECK.dir
-C:/Users/NobleProg/Desktop/cmake/topic4/medium/advanced_project/build/lib/CMakeFiles/advanced_math_operations.dir
-C:/Users/NobleProg/Desktop/cmake/topic4/medium/advanced_project/build/lib/CMakeFiles/RUN_TESTS.dir
-C:/Users/NobleProg/Desktop/cmake/topic4/medium/advanced_project/build/app/CMakeFiles/advanced_app.dir
-C:/Users/NobleProg/Desktop/cmake/topic4/medium/advanced_project/build/app/CMakeFiles/RUN_TESTS.dir

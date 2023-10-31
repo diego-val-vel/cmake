@@ -20,6 +20,7 @@ include_directories(lib)
 # Añade subdirectorios
 add_subdirectory(lib)
 add_subdirectory(app)
+add_subdirectory(test)
 
 # Permite organizar los objetivos en carpetas para IDEs
 set_property(GLOBAL PROPERTY USE_FOLDERS ON)

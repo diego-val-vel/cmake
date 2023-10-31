@@ -1,6 +1,5 @@
-#pragma once
+#include "MathOperations.h"
 
-class MathOperations {
-public:
-    static int add(int a, int b);
-};
+int MathOperations::add(int a, int b) {
+    return a + b;
+}
