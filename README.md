@@ -9,4 +9,5 @@ cd build
 cmake ..
 cmake --build .
 cd Debug
-BasicApp.exe
+BasicApp.exe 
+#en VS Powershell poner ".\" antes del ejecutable
