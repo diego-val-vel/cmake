@@ -12,3 +12,4 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 include_directories(include)
 
 # Añade los archivos fuente que serán compilados.
+add_executable(CalculatorProject main.cpp src/calculator.cpp)

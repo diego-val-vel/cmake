@@ -8,6 +8,7 @@ int main() {
     std::cout << "Suma: " << add(num1, num2) << std::endl;
     std::cout << "Multiplicación: " << multiply(num1, num2) << std::endl;
     std::cout << "División: " << divide(num1, num2) << std::endl;
+    std::cout << "Substraction: " << substract(num1, num2) << std::endl;
 
     return 0;
 }
