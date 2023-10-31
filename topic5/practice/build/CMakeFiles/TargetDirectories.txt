@@ -1,6 +1,0 @@
-C:/Users/NobleProg/Desktop/cmake/topic5/practice/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/NobleProg/Desktop/cmake/topic5/practice/build/CMakeFiles/ZERO_CHECK.dir
-C:/Users/NobleProg/Desktop/cmake/topic5/practice/build/advanced_library/CMakeFiles/advanced_library.dir
-C:/Users/NobleProg/Desktop/cmake/topic5/practice/build/advanced_library/CMakeFiles/ALL_BUILD.dir
-C:/Users/NobleProg/Desktop/cmake/topic5/practice/build/app/CMakeFiles/main_app.dir
-C:/Users/NobleProg/Desktop/cmake/topic5/practice/build/app/CMakeFiles/ALL_BUILD.dir
