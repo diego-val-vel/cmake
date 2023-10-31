@@ -1,0 +1,11 @@
+C:/Users/NobleProg/Desktop/cmake/topic6/practice/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/NobleProg/Desktop/cmake/topic6/practice/build/CMakeFiles/INSTALL.dir
+C:/Users/NobleProg/Desktop/cmake/topic6/practice/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/NobleProg/Desktop/cmake/topic6/practice/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/NobleProg/Desktop/cmake/topic6/practice/build/src/CMakeFiles/MathFunctions.dir
+C:/Users/NobleProg/Desktop/cmake/topic6/practice/build/src/CMakeFiles/main.dir
+C:/Users/NobleProg/Desktop/cmake/topic6/practice/build/src/CMakeFiles/RUN_TESTS.dir
+C:/Users/NobleProg/Desktop/cmake/topic6/practice/build/src/CMakeFiles/INSTALL.dir
+C:/Users/NobleProg/Desktop/cmake/topic6/practice/build/tests/CMakeFiles/test_main.dir
+C:/Users/NobleProg/Desktop/cmake/topic6/practice/build/tests/CMakeFiles/RUN_TESTS.dir
+C:/Users/NobleProg/Desktop/cmake/topic6/practice/build/tests/CMakeFiles/INSTALL.dir

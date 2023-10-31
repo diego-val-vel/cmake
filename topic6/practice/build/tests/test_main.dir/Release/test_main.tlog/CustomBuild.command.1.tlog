@@ -1,0 +1,10 @@
+^C:\USERS\NOBLEPROG\DESKTOP\CMAKE\TOPIC6\PRACTICE\TESTS\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/NobleProg/Desktop/cmake/topic6/practice -BC:/Users/NobleProg/Desktop/cmake/topic6/practice/build --check-stamp-file C:/Users/NobleProg/Desktop/cmake/topic6/practice/build/tests/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
